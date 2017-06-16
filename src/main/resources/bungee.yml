@@ -1,0 +1,4 @@
+name: AddressLimiter
+main: de.unitygaming.addresslimiter.bungee.BungeeLimiter
+version: 1.0.0
+author: FastFelix771
